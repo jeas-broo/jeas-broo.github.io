@@ -1,0 +1,28 @@
+body{
+    background-image: url(D:dibujos/FONDO4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#letra1{
+    position: absolute;
+    top: 18%;
+    left: 40%;
+    font-size: 20pt;
+    color: rgb(243, 101, 7);
+    text-shadow: 2px 2px 0px rgb(0, 4, 255);            
+}
+#letra2{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    text-align: center;
+    font-size: 18pt;
+    color: rgb(235, 76, 13);
+}
+#imagen1{
+position: absolute;
+top: 30%;
+left: 40%;
+}
